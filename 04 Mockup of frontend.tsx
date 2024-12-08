@@ -1,5 +1,3 @@
-Let me fix the syntax error by ensuring proper semicolon usage. I'll check and correct the line causing the error.
-
 
 
 ```tsx
